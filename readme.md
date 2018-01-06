@@ -9,5 +9,5 @@
 * GitLens
 * ExpressJs 4 Snippets
 
-## What i experienced
+## What I experienced
 * Could not drag/drop a file from Explorer on vscode - because vscode was "run as administrator"
